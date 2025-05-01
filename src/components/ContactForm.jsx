@@ -46,6 +46,10 @@ const ContactForm = () => {
                  title="ATM Heavy Equipment Location"
                 ></iframe>
             </div>
+            <div>
+            <h4>Visit Us:</h4>
+            <a href="https://www.facebook.com/atmheavyequipment"><img src="./fb logo.svg" alt="fb logo" className='mx-auto mb-2 h-7' /></a>
+            </div>
         </section>
     )
 }
