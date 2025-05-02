@@ -47,10 +47,11 @@ const ContactForm = () => {
                 ></iframe>
             </div>
             <div>
-            <h4>Visit Us:</h4>
-            <a href="https://www.facebook.com/atmheavyequipment"><img src="./fb logo.svg" alt="fb logo" className='mx-auto mb-2 h-7' /></a>
+                <h4 className='text-1xl mt-5 -mb-5'>Visit Us:</h4>
+                <a href="https://www.facebook.com/atmheavyequipment" target='_blank' rel='noopener noreferrer' className='inline-block'><img src="./fb logo.svg" alt="fb logo" className='mx-auto -mb-8 h-7 mt-4' /></a>
             </div>
         </section>
+        
     )
 }
 
